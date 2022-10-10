@@ -1,0 +1,28 @@
+{
+  "productlist": [
+    {
+      "productName": "Suriya",
+      "category": "Fresher",
+      "fruit": "Developer",
+      "date": "2022-10-07T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Sugan",
+      "category": "Fresher",
+      "fruit": "Developer",
+      "date": "2022-10-05T18:30:00.000Z",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
